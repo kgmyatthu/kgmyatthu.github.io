@@ -1,2 +1,2 @@
-# kgmyatthu.github.io
-This repo contains builds of my portfolio
+# Warnings
+This website is still under construction
